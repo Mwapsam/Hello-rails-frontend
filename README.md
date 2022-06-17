@@ -3,7 +3,7 @@
 > This app is the demonstration of API connect between Ruby on Rails and React..
 
 
-> ### Frontend Link
+> ### Backend Link
 > [Click Here](https://github.com/Mwapsam/Hello-rails-frontend/pull/1)
 
 ## Built With
